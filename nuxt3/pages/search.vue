@@ -1,0 +1,4 @@
+<template>
+  <CardProject/>
+  <CardProfil/>
+</template>
